@@ -1,1 +1,8 @@
-this ram
+class addiion{
+int a,b,c;
+a=10;b=20;
+c=a+b;
+print(c);
+
+this is ram
+
